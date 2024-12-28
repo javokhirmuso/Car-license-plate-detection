@@ -41,11 +41,11 @@ pip install -r requirements.txt
 ## Results
 
 - ** prediction **
-  <img src="results\val_batch2_pred.jpg" height="500px" width="70%"
+  <img src="results\val_batch0_pred.jpg" height="70%" width="70%"
         style="object-fit:contain"
     />
 - **label**
-  <img src="results\val_batch2_labels.jpg" height="500px" width="70%"
+  <img src="results\val_batch0_labels.jpg" height="70%" width="70%"
         style="object-fit:contain"
     />
 
