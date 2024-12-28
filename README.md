@@ -27,8 +27,8 @@ This project implements a license plate detection system using YOLO11n model for
 
 ```bash
 # Clone repository
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/javokhirmuso/Car-license-plate-detection.git
+cd Car-license-plate-detection
 
 # Install requirements
 pip install ultralytics
